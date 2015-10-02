@@ -4,6 +4,8 @@ Country Flags Responsive CSS Sprite
 
 A set of great looking country flag icons packed into a responsive CSS sprite.
 
+![alt tag](https://raw.githubusercontent.com/SlavkoPekaric/Country-Flags-Responsive-CSS-Sprite/master/preview.png)
+
 
 What's Included?
 --------------------------------------
