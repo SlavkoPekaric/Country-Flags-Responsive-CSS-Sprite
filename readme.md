@@ -17,7 +17,7 @@ What's Included?
 Size?
 --------------------------------------
 
-- Background image: 40.6 kilobytes
+- Background image: 39.7 kilobytes
 - CSS file: 8.2 kilobytes
 - Placeholder image: 96 bytes
 
