@@ -19,8 +19,8 @@ What's Included?
 Size?
 --------------------------------------
 
-- Background image: 39.7 kilobytes
-- CSS file: 8.2 kilobytes
+- Sprite image: 54.1 kilobytes
+- CSS file: 10 kilobytes
 - Placeholder image: 96 bytes
 
 
