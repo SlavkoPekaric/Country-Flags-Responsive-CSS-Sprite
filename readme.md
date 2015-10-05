@@ -47,194 +47,242 @@ List of country flags inside sprite:
 --------------------------------------
 
 
-1. Afghanistan
-2. Albania
-3. Algeria
-4. Andorra
-5. Antigua and Barbuda
-6. Argentina
-7. Armenia
-8. Australia
-9. Austria
-10. Azerbaijan
-11. Bahamas
-12. Bahrain
-13. Bangladesh
-14. Barbados
-15. Belarus
-16. Belgium
-17. Belize
-18. Benin
-19. Bhutan
-20. Bolivia
-21. Bosnia and Herzegovina
-22. Botswana
-23. Brazil
-24. Brunei
-25. Bulgaria
-26. Burkina Faso
-27. Burundi
-28. Cambodia
-29. Cameroon
-30. Canada
-31. Cape Verde
-32. Central African Republic
-33. Chad
-34. Chile
-35. China
-36. Colombia
-37. Comoros
-38. Congo (Democratic)
-39. Congo (Republic)
-40. Costa Rica
-41. Cote d'Ivoire
-42. Croatia
-43. Cuba
-44. Cyprus
-45. Czech Republic
-46. Denmark
-47. Djibouti
-48. Dominica
-49. Dominican Republic
-50. East Timor
-51. Ecuador
-52. Egypt
-53. El Salvador
-54. Equatorial Guinea
-55. Eritrea
-56. Estonia
-57. Ethiopia
-58. Fiji
-59. Finland
-60. France
-61. Gabon
-62. Gambia
-63. Georgia
-64. Germany
-65. Ghana
-67. Grenada
-68. Guatemala
-69. Guinea Bissau
-70. Guinea
-71. Guyana
-72. Haiti
-73. Honduras
-74. Hungary
-75. Iceland
-76. India
-77. Indonesia
-78. Iran
-79. Iraq
-80. Ireland
-81. Israel
-82. Italy
-83. Jamaica
-84. Japan
-85. Jordan
-86. Kazakhstan
-87. Kenya
-88. Kiribati
-89. Korea, North
-90. Korea, South
-92. Kuwait
-93. Kyrgyzstan
-94. Laos
-95. Latvia
-96. Lebanon
-97. Lesotho
-98. Liberia
-99. Libya
-100. Liechtenstein
-101. Lithuania
-102. Luxembourg
-103. Macedonia
-104. Madagascar
-105. Malawi
-106. Malaysia
-107. Maldives
-108. Mali
-109. Malta
-110. Marshall Islands
-111. Mauritania
-112. Mauritius
-113. Mexico
-115. Moldova
-116. Monaco
-117. Mongolia
-118. Montenegro
-119. Morocco
-120. Mozambique
-121. Myanmar
-122. Namibia
-123. Nauru
-124. Nepal
-125. Netherlands
-126. New Zealand
-127. Nicaragua
-128. Niger
-129. Nigeria
-130. Norway
-131. Oman
-132. Pakistan
-133. Palau
-134. Panama
-135. Papua New Guinea
-136. Paraguay
-137. Peru
-138. Philippines
-139. Poland
-140. Portugal
-141. Qatar
-142. Romania
-143. Russia
-144. Rwanda
-145. Saint Kitts and Nevis
-146. Saint Lucia
-147. Saint Vincent and the Grenadines
-148. Samoa
-149. San Marino
-150. Sao Tome and Principe
-151. Saudi Arabia
-152. Senegal
-153. Serbia
-154. Seychelles
-155. Sierra Leone
-156. Singapore
-157. Slovakia
-158. Slovenia
-159. Solomon Islands
-160. Somalia
-161. South Africa
-162. South Sudan
-163. Spain
-164. Sri Lanka
-165. Sudan
-166. Suriname
-167. Swaziland
-168. Sweden
-169. Switzerland
-170. Syria
-171. Taiwan
-172. Tajikistan
-173. Tanzania
-174. Thailand
-175. Togo
-176. Tonga
-177. Trinidad and Tobago
-178. Tunisia
-179. Turkey
-180. Turkmenistan
-181. Tuvalu
-182. Uganda
-183. Ukraine
-184. United Arab Emirates
-185. United Kingdom
-186. United States of America
-187. Uruguay
-188. Uzbekistan
-189. Vanuatu
-191. Venezuela
-192. Vietnam
-193. Yemen
-194. Zambia
-195. Zimbabwe
+1. Andorra (AD)
+2. United Arab Emirates (AE)
+3. Afghanistan (AF)
+4. Antigua and/or Barbuda (AG)
+5. Anguilla (AI)
+6. Albania (AL)
+7. Armenia (AM)
+8. Netherlands Antilles (AN)
+9. Angola (AO)
+10. Antarctica (AQ)
+11. Argentina (AR)
+12. American Samoa (AS)
+13. Austria (AT)
+14. Australia (AU)
+15. Aruba (AW)
+16. Azerbaijan (AZ)
+17. Bosnia and Herzegovina (BA)
+18. Barbados (BB)
+19. Bangladesh (BD)
+20. Belgium (BE)
+21. Burkina Faso (BF)
+22. Bulgaria (BG)
+23. Bahrain (BH)
+24. Burundi (BI)
+25. Benin (BJ)
+26. Bermuda (BM)
+27. Brunei Darussalam (BN)
+28. Bolivia (BO)
+29. Brazil (BR)
+30. Bahamas (BS)
+31. Bhutan (BT)
+32. Bouvet Island (BV)
+33. Botswana (BW)
+34. Belarus (BY)
+35. Belize (BZ)
+36. Canada (CA)
+37. Cocos (Keeling) Islands (CC)
+38. Central African Republic (CF)
+39. Congo (CG)
+40. Switzerland (CH)
+41. Ivory Coast (CI)
+42. Cook Islands (CK)
+43. Chile (CL)
+44. Cameroon (CM)
+45. China (CN)
+46. Colombia (CO)
+47. Costa Rica (CR)
+48. Cuba (CU)
+49. Cape Verde (CV)
+50. Christmas Island (CX)
+51. Cyprus (CY)
+52. Czech Republic (CZ)
+53. Germany (DE)
+54. Djibouti (DJ)
+55. Denmark (DK)
+56. Dominica (DM)
+57. Dominican Republic (DO)
+58. Algeria (DZ)
+59. Ecudaor (EC)
+60. Estonia (EE)
+61. Egypt (EG)
+62. Western Sahara (EH)
+63. Eritrea (ER)
+64. Spain (ES)
+65. Ethiopia (ET)
+66. Finland (FI)
+67. Fiji (FJ)
+68. Falkland Islands (Malvinas) (FK)
+69. Micronesia, Federated States of (FM)
+70. Faroe Islands (FO)
+71. France (FR)
+72. France, Metropolitan (FX)
+73. Gabon (GA)
+74. United Kingdom (GB)
+75. Grenada (GD)
+76. Georgia (GE)
+77. French Guiana (GF)
+78. Ghana (GH)
+79. Gibraltar (GI)
+80. Greenland (GL)
+81. Gambia (GM)
+82. Guinea (GN)
+83. Guadeloupe (GP)
+84. Equatorial Guinea (GQ)
+85. Greece (GR)
+86. South Georgia South Sandwich Islands (GS)
+87. Guatemala (GT)
+88. Guam (GU)
+89. Guinea-Bissau (GW)
+90. Guyana (GY)
+91. Hong Kong (HK)
+92. Heard and Mc Donald Islands (HM)
+93. Honduras (HN)
+94. Croatia (Hrvatska) (HR)
+95. Haiti (HT)
+96. Hungary (HU)
+97. Indonesia (ID)
+98. Ireland (IE)
+99. Israel (IL)
+100. India (IN)
+101. British lndian Ocean Territory (IO)
+102. Iraq (IQ)
+103. Iran (Islamic Republic of) (IR)
+104. Iceland (IS)
+105. Italy (IT)
+106. Jamaica (JM)
+107. Jordan (JO)
+108. Japan (JP)
+109. Kenya (KE)
+110. Kyrgyzstan (KG)
+111. Cambodia (KH)
+112. Kiribati (KI)
+113. Comoros (KM)
+114. Saint Kitts and Nevis (KN)
+115. Korea, Democratic People's Republic of (KP)
+116. Korea, Republic of (KR)
+117. Kuwait (KW)
+118. Cayman Islands (KY)
+119. Kazakhstan (KZ)
+120. Lao People's Democratic Republic (LA)
+121. Lebanon (LB)
+122. Saint Lucia (LC)
+123. Liechtenstein (LI)
+124. Sri Lanka (LK)
+125. Liberia (LR)
+126. Lesotho (LS)
+127. Lithuania (LT)
+128. Luxembourg (LU)
+129. Latvia (LV)
+130. Libyan Arab Jamahiriya (LY)
+131. Morocco (MA)
+132. Monaco (MC)
+133. Moldova, Republic of (MD)
+134. Madagascar (MG)
+135. Marshall Islands (MH)
+136. Macedonia (MK)
+137. Mali (ML)
+138. Myanmar (MM)
+139. Mongolia (MN)
+140. Macau (MO)
+141. Northern Mariana Islands (MP)
+142. Martinique (MQ)
+143. Mauritania (MR)
+144. Montserrat (MS)
+145. Malta (MT)
+146. Mauritius (MU)
+147. Maldives (MV)
+148. Malawi (MW)
+149. Mexico (MX)
+150. Malaysia (MY)
+151. Mozambique (MZ)
+152. Namibia (NA)
+153. New Caledonia (NC)
+154. Niger (NE)
+155. Norfork Island (NF)
+156. Nigeria (NG)
+157. Nicaragua (NI)
+158. Netherlands (NL)
+159. Norway (NO)
+160. Nepal (NP)
+161. Nauru (NR)
+162. Niue (NU)
+163. New Zealand (NZ)
+164. Oman (OM)
+165. Panama (PA)
+166. Peru (PE)
+167. French Polynesia (PF)
+168. Papua New Guinea (PG)
+169. Philippines (PH)
+170. Pakistan (PK)
+171. Poland (PL)
+172. St. Pierre and Miquelon (PM)
+173. Pitcairn (PN)
+174. Puerto Rico (PR)
+175. Portugal (PT)
+176. Palau (PW)
+177. Paraguay (PY)
+178. Qatar (QA)
+179. Reunion (RE)
+180. Romania (RO)
+181. Serbia (RS)
+182. Russian Federation (RU)
+183. Rwanda (RW)
+184. Saudi Arabia (SA)
+185. Solomon Islands (SB)
+186. Seychelles (SC)
+187. Sudan (SD)
+188. Sweden (SE)
+189. Singapore (SG)
+190. St. Helena (SH)
+191. Slovenia (SI)
+192. Svalbarn and Jan Mayen Islands (SJ)
+193. Slovakia (SK)
+194. Sierra Leone (SL)
+195. San Marino (SM)
+196. Senegal (SN)
+197. Somalia (SO)
+198. Suriname (SR)
+199. Sao Tome and Principe (ST)
+200. El Salvador (SV)
+201. Syrian Arab Republic (SY)
+202. Swaziland (SZ)
+203. Turks and Caicos Islands (TC)
+204. Chad (TD)
+205. French Southern Territories (TF)
+206. Togo (TG)
+207. Thailand (TH)
+208. Tajikistan (TJ)
+209. Tokelau (TK)
+210. Turkmenistan (TM)
+211. Tunisia (TN)
+212. Tonga (TO)
+213. East Timor (TP)
+214. Turkey (TR)
+215. Trinidad and Tobago (TT)
+216. Tuvalu (TV)
+217. Taiwan (TW)
+218. Mayotte (TY)
+219. Tanzania, United Republic of (TZ)
+220. Ukraine (UA)
+221. Uganda (UG)
+222. United States minor outlying islands (UM)
+223. United States (US)
+224. Uruguay (UY)
+225. Uzbekistan (UZ)
+226. Vatican City State (VA)
+227. Saint Vincent and the Grenadines (VC)
+228. Venezuela (VE)
+229. Virgin Islands (British) (VG)
+230. Virgin Islands (U.S.) (VI)
+231. Vietnam (VN)
+232. Vanuatu (VU)
+233. Wallis and Futuna Islands (WF)
+234. Samoa (WS)
+235. Yemen (YE)
+236. South Africa (ZA)
+237. Zambia (ZM)
+238. Zaire (ZR)
+239. Zimbabwe (ZW)
